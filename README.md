@@ -76,16 +76,21 @@ I am a passionate **Backend Developer** and Information Technology undergraduate
 ### 📊 GitHub Stats & Problem Solving
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaneshMirgane40&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <!-- LeetCode Stats Card (Replace YOUR_LEETCODE_USERNAME) -->
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+    <img src="https://leetcard.jacoblin.cool/forJoke_40?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <!-- GitHub Stats (Using a more stable API endpoint) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshMirgane40&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshMirgane40&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshMirgane40&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <i>Let's connect and build something amazing together! 🚀</i>
 </div>
