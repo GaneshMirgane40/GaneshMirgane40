@@ -83,14 +83,9 @@ I am a passionate **Backend Developer** and Information Technology undergraduate
 </div>
 <br>
 <div align="center">
-  <!-- GitHub Stats (Using a more stable API endpoint) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GaneshMirgane40&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
+  
   
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshMirgane40&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-<br>
-<div align="center">
-  <!-- Top Languages -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshMirgane40&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
-</div>
+
